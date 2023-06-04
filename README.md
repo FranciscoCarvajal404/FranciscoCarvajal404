@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciscoCarvajal404
 - 👀 I’m interested in videogames, coding, physics and science in general
-- 🌱 I’m currently learning HTML5, Python, Java, JS, CSS (plus a physics degree)
+- 🌱 HTML, CSS, JS, REACT (learning back-end)
 - 💞️ I’m looking to collaborate on: (lemme learn first and then we see)
 - 📫 How to reach me:
                 email: franciscocarvajal360@gmail.com
