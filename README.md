@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FranciscoCarvajal404
 - 👀 I’m interested in videogames, coding, physics and science in general
 - 🌱 HTML, CSS, JS, REACT (learning back-end)
-- 💞️ I’m looking to collaborate on: (lemme learn first and then we see)
+- 💞️ I’m looking to collaborate on: open source projects or a stable job
 - 📫 How to reach me:
-                email: franciscocarvajal360@gmail.com
+                email: francisco@carvajalweb.com
 
 <!---
 FranciscoCarvajal404/FranciscoCarvajal404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
