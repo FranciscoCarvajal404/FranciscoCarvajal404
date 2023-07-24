@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Front-End (and an amateur designer) developer from Mexico</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Freelance projects and online courses**
 
 - 🌱 I’m currently learning **MySQL, OCL, Python**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **front-end and back-end projects and or a stable job**
 
 - 📫 How to reach me: **francisco@carvajalweb.com**
 
