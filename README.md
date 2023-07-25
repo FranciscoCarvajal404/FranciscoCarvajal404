@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate **front-End developer** (and an amateur designer) from Mexico</h3>
+<h3 align="center">A passionate front-end developer (and an amateur designer) from Mexico</h3>
 
 - 🔭 I’m currently working on my **Freelance projects and online courses**
 
