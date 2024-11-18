@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects and or a stable job**
 
-- 📫 How to reach me: **francisco@carvajalweb.com**
+- 📫 How to reach me: **franciscocarvajal360@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, gym 🏋️ and skateboarding...and coding of course**
 
